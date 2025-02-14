@@ -1,4 +1,4 @@
-# Random Forest Regressor(ensemble) - Machine Learning Model - Drug Discovery
+# Identifying potential drug candidate for Dihydroorotate dehydrogenase through Machine Learning with Chembl Database
 
 A brief description of what this project does and who it's for
 
